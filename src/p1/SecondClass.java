@@ -2,7 +2,7 @@ package p1;
 
 
 
-public class GitFirstProject {
+public class SecondClass {
 
 	public static void main(String[] args) {
 		
