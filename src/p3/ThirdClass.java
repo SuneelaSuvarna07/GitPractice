@@ -1,8 +1,8 @@
-package p1;
+package p3;
 
 
 
-public class GitFirstProject {
+public class ThirdClass {
 
 	public static void main(String[] args) {
 		
@@ -15,11 +15,5 @@ public class GitFirstProject {
 	{
 		System.out.println("test method");
 	}
-	
-	public static void disp()
-	{
-		System.out.println("disp method");
-	}
-	
 
 }
